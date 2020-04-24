@@ -40,4 +40,3 @@ function iLoveTheBeatles(num){
 	while (num < 15 );
 	return empty
 }
-iLoveTheBeatles('num')
