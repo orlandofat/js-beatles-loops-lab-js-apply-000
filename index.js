@@ -28,7 +28,7 @@ while(i < facts.length){
 }
 console.log(facts);
 }
-johnLennonFacts(facts)
+johnLennonFacts('facts')
 
 
 function iLoveTheBeatles(){
