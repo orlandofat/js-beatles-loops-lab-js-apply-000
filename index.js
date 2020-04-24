@@ -42,10 +42,11 @@ function iLoveTheBeatles(num){
 		empty  += "I love the Beatles!";}
 		
 	while (num < 15);
+	
 }
 return empty
 
-iLoveTheBeatles(15)
+iLoveTheBeatles()
 
 
 
