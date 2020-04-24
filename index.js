@@ -33,7 +33,7 @@ johnLennonFacts('facts')
 
 function iLoveTheBeatles(num){
   var empty = [];
-	
+	var num = 0;
 	do {
 		empty  += "I love the Beatles!";}
 		
