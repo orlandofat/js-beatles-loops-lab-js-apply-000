@@ -31,7 +31,7 @@ return facts
 johnLennonFacts('facts')
 
 
-function iLoveTheBeatles(num){
+function iLoveTheBeatles(){
   var empty = [];
 	var num = 0;
 	do {
