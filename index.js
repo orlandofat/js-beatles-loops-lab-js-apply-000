@@ -42,6 +42,3 @@ function iLoveTheBeatles(num){
 }
 
 iLoveTheBeatles()
-
-
-
