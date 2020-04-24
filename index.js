@@ -31,9 +31,9 @@ return facts
 johnLennonFacts('facts')
 
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(num){
   var empty = [];
-	var num = 0;
+
 	do {num++;
 		empty  += "I love the Beatles!";}
 		
