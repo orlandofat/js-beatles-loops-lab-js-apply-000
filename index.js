@@ -26,7 +26,7 @@ while(i < facts.length){
   facts[i] += '!!!';
   i++;
 }
-console.log('facts');
+return facts
 
 }
 johnLennonFacts('facts')
