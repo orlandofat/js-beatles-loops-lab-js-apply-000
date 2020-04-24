@@ -27,7 +27,6 @@ while(i < facts.length){
   i++;
 }
 return facts
-
 }
 johnLennonFacts('facts')
 
@@ -45,5 +44,9 @@ function iLoveTheBeatles(){
 		
 	while (num < 15);
 }
+return "I love the Beatles!"
 
 iLoveTheBeatles(15);
+
+
+
