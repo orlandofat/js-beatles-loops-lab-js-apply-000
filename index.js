@@ -27,7 +27,7 @@ while(i < facts.length){
   i++;
 }
 console.log('facts');
-johnLennonFacts('facts')
+
 }
 johnLennonFacts('facts')
 
