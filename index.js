@@ -41,4 +41,3 @@ function iLoveTheBeatles(num){
 	return empty
 }
 
-iLoveTheBeatles()
