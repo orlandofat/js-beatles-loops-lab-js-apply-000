@@ -26,11 +26,11 @@ while(i < facts.length){
   facts[i] += '!!!';
   i++;
 }
-
+console.log('facts');
 
 }
 johnLennonFacts('facts')
-console.log('facts');
+
 
 function iLoveTheBeatles(){
   var empty = [];
