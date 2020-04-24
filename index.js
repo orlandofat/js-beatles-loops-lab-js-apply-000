@@ -46,7 +46,7 @@ function iLoveTheBeatles(num){
 }
 return "I love the Beatles!"
 
-iLoveTheBeatles(15);
+iLoveTheBeatles(15)
 
 
 
