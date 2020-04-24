@@ -37,7 +37,7 @@ function iLoveTheBeatles(num){
 	do {
 		empty += "I love the Beatles!"; num++;}
 		
-	while (num < 15);
+	while (num < 15 );
 	return empty
 }
 iLoveTheBeatles('num')
